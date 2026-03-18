@@ -5,7 +5,7 @@ Maaf ya kalau belakangan ini effort aku terasa kurang buat kamu.
 Aku tau kamu lagi sibuk kuliah, and I want to be there for u more.
 I’ll try my best to do better next time.
 
-I just want you to know that I love u so much, Grace. 
+I just want u to know that I love u so much, Grace. 
 Semangat terus ya, Ice Cream! ❤️`;
 
 function showLetter() {
