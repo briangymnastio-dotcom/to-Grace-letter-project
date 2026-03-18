@@ -1,2 +1,2 @@
 # letter-project
-"i hope you read this, sayang."
+"i hope you read this, sayangku."
